@@ -8,9 +8,7 @@ The game allows players to combine numbered tiles by moving them in four directi
 
 ## 📸 Screenshot
 
-<p align="center">
-  <img src="images/game.png" alt="2048 Game Screenshot" width="500"/>
-</p>
+![image alt](https://github.com/Vishakh01/2048-Python-Game/blob/fa792a3bccc4e6c684099884d0b1f5cf9098910b/2048-Game.png)
 
 > Save your uploaded game screenshot as:
 >
